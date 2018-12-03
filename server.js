@@ -5,7 +5,6 @@ const passport = require('passport');
 const path = require('path');
 
 const users = require('./routes/api/users');
-//
 // const charts = require('./routes/api/charts');
 // const coins = require('./routes/api/coins');
 // const saveData = require('./routes/api/saveData');
