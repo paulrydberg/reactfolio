@@ -1,5 +1,7 @@
 # reactfolio
 
+[Deployed Link](https://pauljrydberg.herokuapp.com/)
+
 npm packages
 https://www.npmjs.com/package/react-typed
 
@@ -59,6 +61,8 @@ https://www.youtube.com/channel/UC_ahIrDr9njt0jUqbzH_9Qg/videos
 
 https://www.youtube.com/watch?v=FXJYwsJmOJQ
 
+```
 git add .
 git commit -am "make it better"
 git push heroku master
+```
