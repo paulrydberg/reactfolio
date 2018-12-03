@@ -50,3 +50,15 @@ https://codepen.io/MarcoGuglielmelli/pen/lLCxy
 https://design.tutsplus.com/articles/master-adobe-illustrator-with-these-9-courses--cms-29771
 
 https://github.com/ramsaylanier/WordExpress
+
+http://technomile.github.io/wordpress/setup.html
+
+https://www.youtube.com/watch?v=fupZ5WTvkMo
+
+https://www.youtube.com/channel/UC_ahIrDr9njt0jUqbzH_9Qg/videos
+
+https://www.youtube.com/watch?v=FXJYwsJmOJQ
+
+git add .
+git commit -am "make it better"
+git push heroku master

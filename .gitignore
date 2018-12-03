@@ -2,3 +2,5 @@
 package-lock.json
 /config/keys_dev.js
 /client/client.rar
+client.rar
+/client/node_modules
